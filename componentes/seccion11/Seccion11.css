@@ -1,0 +1,13 @@
+.frutas{
+    display: flex;
+    padding-left: 70px;
+    padding-top: 30px;
+    
+
+}
+.cosas{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 2px;
+    padding-right: 52px;
+}

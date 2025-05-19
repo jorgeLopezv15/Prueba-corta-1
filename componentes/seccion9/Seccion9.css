@@ -1,0 +1,17 @@
+.marcas{
+    display: flex;
+    padding-top: 30px;
+    justify-content: space-between;
+    padding-left: 60px;
+    padding-right: 50px;
+    
+}
+.puntos{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -80px;
+
+    
+   
+}

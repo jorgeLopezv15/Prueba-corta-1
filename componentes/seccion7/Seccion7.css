@@ -1,0 +1,13 @@
+.categorias{
+    display: flex;
+    padding-top: 30px;
+    padding-left: 70px;
+    right: 70px;
+   
+}
+.objeto1{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 15x;
+    padding-right: 40px;
+}

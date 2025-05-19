@@ -1,0 +1,14 @@
+.MegaMart{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+.mega1{
+    padding-top: 10px;
+    padding: 10px;
+    
+}

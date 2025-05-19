@@ -1,0 +1,7 @@
+.Grab{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 70px;
+}
